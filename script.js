@@ -9,11 +9,11 @@ function toggleMode() {
     
 
     if(html.classList.contains('light')){
-        img.setAttribute('src',"FOTOS/avatar_light.png")
+        img.setAttribute('src',"FOTOS/Avatar-light.png")
         img.setAttribute('alt',"Foto de perfil de um usuário usando óculos escuro e estudando programação")
 
     }else{
-        img.setAttribute("src","FOTOS/Avatar.png")
+        img.setAttribute("src","FOTOS/Avatar-dark.png")
         img.setAttribute('alt',"Foto de perfil de um usuário usando óculos e estudando programação")
     }
 

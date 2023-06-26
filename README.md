@@ -47,3 +47,4 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ pelo DEVS :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
